@@ -1,0 +1,14 @@
+{
+  "name": "hi-webpack",
+  "version": "0.0.0",
+  "description": "play around webpack for the first time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "sadleader",
+  "license": "ISC"
+}
